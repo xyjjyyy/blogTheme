@@ -1,9 +1,20 @@
+<<<<<<< HEAD
 html {
     font-size: 17px;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     text-rendering: optimizelegibility;
     -webkit-font-smoothing: initial;
+=======
+
+.main {
+    font-family: Georgia, "Times New Roman", 
+          "Microsoft YaHei", "微软雅黑", 
+          STXihei, "华文细黑", 
+          serif;
+    width: 80vw;
+    margin-left:10vw;
+>>>>>>> 84b1c6ecfcf5d0f9f4b8d0ff1bae60a90264b338
 }
 
 body {
