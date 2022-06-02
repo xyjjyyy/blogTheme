@@ -1,13 +1,13 @@
 
 .main {
-    width: 38em;
+    font-family: Georgia, "Times New Roman", 
+          "Microsoft YaHei", "微软雅黑", 
+          STXihei, "华文细黑", 
+          serif;
+    width: 80vw;
+    max-width: 1000px;
 }
 
-@media (min-width: 800px) {
-    .main {
-        margin-left: 20em;
-    }
-}
 
 img {
     margin-left: 10%;
