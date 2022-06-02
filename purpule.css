@@ -1,20 +1,21 @@
-<<<<<<< HEAD
 html {
     font-size: 17px;
+    line-height: 1.5294717647;
+    font-weight: 400;
+    letter-spacing: -0.021em;
+    font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+    background-color: white;
+    color: #333;
+    font-style: normal;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     text-rendering: optimizelegibility;
     -webkit-font-smoothing: initial;
-=======
+}
 
 .main {
-    font-family: Georgia, "Times New Roman", 
-          "Microsoft YaHei", "微软雅黑", 
-          STXihei, "华文细黑", 
-          serif;
     width: 80vw;
     margin-left:10vw;
->>>>>>> 84b1c6ecfcf5d0f9f4b8d0ff1bae60a90264b338
 }
 
 body {
@@ -44,9 +45,10 @@ img {
 
 
 code {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 1em;
-    color: #5a73ef;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;
+    font-size: 12px;
 }
 
 pre {
